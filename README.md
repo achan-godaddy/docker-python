@@ -1,6 +1,6 @@
 ```
 docker build . -t my-docker-test
-docker run -t alex-python-test
+docker run -t my-python-test
 
 # open an interactive termainl
 # nothing will persist without volumes
